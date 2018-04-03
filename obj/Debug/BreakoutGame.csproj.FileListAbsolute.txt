@@ -1,0 +1,46 @@
+Q:\Programming PJ\BreakoutGame\BreakoutGame\bin\Debug\BreakoutGame.exe.config
+Q:\Programming PJ\Assignment 1\BreakoutGame\BreakoutGame\bin\Debug\BreakoutGame.exe.config
+Q:\Programming PJ\Assignment 1\BreakoutGame\BreakoutGame\obj\Debug\BreakoutGame.csprojResolveAssemblyReference.cache
+Q:\Programming PJ\Assignment 1\BreakoutGame\BreakoutGame\obj\Debug\BreakoutGame.FrmBreakout.resources
+Q:\Programming PJ\Assignment 1\BreakoutGame\BreakoutGame\obj\Debug\BreakoutGame.Properties.Resources.resources
+Q:\Programming PJ\Assignment 1\BreakoutGame\BreakoutGame\obj\Debug\BreakoutGame.csproj.GenerateResource.Cache
+Q:\Programming PJ\Assignment 1\BreakoutGame\BreakoutGame\bin\Debug\BreakoutGame.exe
+Q:\Programming PJ\Assignment 1\BreakoutGame\BreakoutGame\bin\Debug\BreakoutGame.pdb
+Q:\Programming PJ\Assignment 1\BreakoutGame\BreakoutGame\obj\Debug\BreakoutGame.exe
+Q:\Programming PJ\Assignment 1\BreakoutGame\BreakoutGame\obj\Debug\BreakoutGame.pdb
+C:\Users\pooja\Desktop\pooja IT\BreakoutGame\BreakoutGame\bin\Debug\BreakoutGame.exe.config
+C:\Users\pooja\Desktop\pooja IT\BreakoutGame\BreakoutGame\obj\Debug\BreakoutGame.exe
+C:\Users\pooja\Desktop\pooja IT\BreakoutGame\BreakoutGame\bin\Debug\BreakoutGame.exe
+C:\Users\pooja\Desktop\pooja IT\BreakoutGame\BreakoutGame\bin\Debug\BreakoutGame.pdb
+C:\Users\pooja\Desktop\pooja IT\BreakoutGame\BreakoutGame\obj\Debug\BreakoutGame.csprojResolveAssemblyReference.cache
+C:\Users\pooja\Desktop\pooja IT\BreakoutGame\BreakoutGame\obj\Debug\BreakoutGame.FrmBreakout.resources
+C:\Users\pooja\Desktop\pooja IT\BreakoutGame\BreakoutGame\obj\Debug\BreakoutGame.Properties.Resources.resources
+C:\Users\pooja\Desktop\pooja IT\BreakoutGame\BreakoutGame\obj\Debug\BreakoutGame.csproj.GenerateResource.Cache
+C:\Users\pooja\Desktop\pooja IT\BreakoutGame\BreakoutGame\obj\Debug\BreakoutGame.pdb
+E:\BreakoutGame\BreakoutGame\bin\Debug\BreakoutGame.exe.config
+E:\BreakoutGame\BreakoutGame\obj\Debug\BreakoutGame.exe
+E:\BreakoutGame\BreakoutGame\obj\Debug\BreakoutGame.pdb
+Q:\BreakoutGame\BreakoutGame\bin\Debug\BreakoutGame.exe.config
+Q:\BreakoutGame\BreakoutGame\obj\Debug\BreakoutGame.exe
+Q:\BreakoutGame\BreakoutGame\obj\Debug\BreakoutGame.pdb
+E:\IT Level 5\Sem 2\Programming\A-1\BreakoutGame\BreakoutGame\bin\Debug\BreakoutGame.exe.config
+E:\IT Level 5\Sem 2\Programming\A-1\BreakoutGame\BreakoutGame\obj\Debug\BreakoutGame.exe
+E:\IT Level 5\Sem 2\Programming\A-1\BreakoutGame\BreakoutGame\obj\Debug\BreakoutGame.pdb
+G:\IT Level 5\Sem 2\Programming\A-1\BreakoutGame\BreakoutGame\bin\Debug\BreakoutGame.exe.config
+G:\IT Level 5\Sem 2\Programming\A-1\BreakoutGame\BreakoutGame\obj\Debug\BreakoutGame.exe
+G:\IT Level 5\Sem 2\Programming\A-1\BreakoutGame\BreakoutGame\obj\Debug\BreakoutGame.pdb
+G:\IT Level 5\Sem 2\Programming\A-1\BreakoutGame\BreakoutGame\bin\Debug\BreakoutGame.exe
+G:\IT Level 5\Sem 2\Programming\A-1\BreakoutGame\BreakoutGame\bin\Debug\BreakoutGame.pdb
+G:\IT Level 5\Sem 2\Programming\A-1\BreakoutGame\BreakoutGame\obj\Debug\BreakoutGame.csprojResolveAssemblyReference.cache
+G:\IT Level 5\Sem 2\Programming\A-1\BreakoutGame\BreakoutGame\obj\Debug\BreakoutGame.FrmBreakout.resources
+G:\IT Level 5\Sem 2\Programming\A-1\BreakoutGame\BreakoutGame\obj\Debug\BreakoutGame.Properties.Resources.resources
+G:\IT Level 5\Sem 2\Programming\A-1\BreakoutGame\BreakoutGame\obj\Debug\BreakoutGame.csproj.GenerateResource.Cache
+D:\IT Level 5\Programming\A-1\BreakoutGame\BreakoutGame\bin\Debug\BreakoutGame.exe.config
+D:\IT Level 5\Programming\A-1\BreakoutGame\BreakoutGame\obj\Debug\BreakoutGame.exe
+D:\IT Level 5\Programming\A-1\BreakoutGame\BreakoutGame\obj\Debug\BreakoutGame.pdb
+D:\IT Level 5\Programming\A-1\BreakoutGame\BreakoutGame\bin\Debug\BreakoutGame.exe
+D:\IT Level 5\Programming\A-1\BreakoutGame\BreakoutGame\bin\Debug\BreakoutGame.pdb
+D:\IT Level 5\Programming\A-1\BreakoutGame\BreakoutGame\obj\Debug\BreakoutGame.csprojResolveAssemblyReference.cache
+D:\IT Level 5\Programming\A-1\BreakoutGame\BreakoutGame\obj\Debug\BreakoutGame.FrmBreakout.resources
+D:\IT Level 5\Programming\A-1\BreakoutGame\BreakoutGame\obj\Debug\BreakoutGame.Properties.Resources.resources
+D:\IT Level 5\Programming\A-1\BreakoutGame\BreakoutGame\obj\Debug\BreakoutGame.csproj.GenerateResource.Cache
